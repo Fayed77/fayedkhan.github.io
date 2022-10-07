@@ -1,5 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
+Title: Fayed Khan Barno 
+description: This is me trying to make my website.
 plugins:
 - jekyll-remote-theme
-Title: Fayed Khan Barno 
-description: This is me trying to make my website, 
+
